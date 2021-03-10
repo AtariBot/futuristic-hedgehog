@@ -27,7 +27,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "GitHub",
                 "url": "/signup",
                 "style": "secondary"
             }
