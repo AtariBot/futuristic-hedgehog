@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/web-development.png
+    image: images/SeekPng.com_guacamole-png_2144376.png
     image_alt: App preview
     title: Welcome to our Dev Portal
     content: >-
