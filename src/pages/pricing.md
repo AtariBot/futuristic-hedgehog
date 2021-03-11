@@ -30,7 +30,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: API Reference
             url: /signup
             style: primary
       - title: Management
