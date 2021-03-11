@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/e-commerce-icon-png-10.jpg
+    image: images/shop.png
   - section_id: features
     type: section_features
     background: gray
