@@ -5,8 +5,9 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Welcome to our Dev Portal
-    content: |
-      Learn about all our APIs in one place.
+    content: >
+      Learn about all our APIs in one place. Find endpoint reference, sample
+      requests and resposes. Experiment with our Explorer.
     actions:
       - label: Quick Start Guide
         url: /features
