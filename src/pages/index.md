@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/avatar.png
+    image: images/code-interface-symbol-of-signs.svg
     image_alt: App preview
     title: Welcome to our Dev Portal
     content: >-
