@@ -42,6 +42,15 @@ sections:
           - label: API Reference
             url: /signup
             style: primary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - title: Management
         subtitle: For very large businesses
         price: Management
