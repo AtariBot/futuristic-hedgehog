@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
+    image: images/ecommerce (1).svg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
