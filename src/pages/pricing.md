@@ -42,7 +42,7 @@ sections:
           - label: API Reference
             url: /signup
             style: primary
-          - label: lorem-ipsum
+          - label: Guides
             url: '#'
             style: link
             has_icon: false
