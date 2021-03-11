@@ -78,7 +78,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Parsley Montana
-        avatar: images/review2.jpg
+        avatar: images/amazing-chestnut.png
         avatar_alt: Parsley Montana's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
