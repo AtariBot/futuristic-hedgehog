@@ -40,12 +40,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        price: lorem-ipsum
-        highlight: false
-        actions: []
-        type: pricing_plan
       - title: Management
         subtitle: For very large businesses
         price: Management
