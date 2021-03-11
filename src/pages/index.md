@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/cart.png
+    image: images/splendid-rosemary.svg
   - section_id: features
     type: section_features
     background: gray
