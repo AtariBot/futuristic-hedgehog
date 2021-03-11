@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/83bb77297c0fb81d_800x800ar.png
+    image: images/avatar.png
     image_alt: App preview
     title: Welcome to our Dev Portal
     content: >-
