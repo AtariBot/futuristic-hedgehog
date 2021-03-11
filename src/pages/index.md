@@ -5,9 +5,8 @@ sections:
     type: section_hero
     image_alt: App preview
     title: Welcome to our Dev Portal
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Learn about all our APIs in one place.
     actions:
       - label: Quick Start Guide
         url: /features
