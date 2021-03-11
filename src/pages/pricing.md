@@ -16,7 +16,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: Order Now
+          - label: API Reference
             url: /signup
             style: secondary
       - title: Purchase Orders
