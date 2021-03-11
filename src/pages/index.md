@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/splendid-rosemary.svg
+    image: images/successful-apple.svg
   - section_id: features
     type: section_features
     background: gray
