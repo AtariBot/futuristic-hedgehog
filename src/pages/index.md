@@ -3,8 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: >-
-      images/Backlog-Succeeding-as-software-developer-in-modern-workforce-Blog.png
+    image: images/amazing-chestnut.png
     image_alt: App preview
     title: Welcome to our Dev Portal
     content: >-
