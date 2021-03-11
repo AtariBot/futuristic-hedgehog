@@ -72,7 +72,7 @@ sections:
       semper libero id sodales.
     reviews:
       - author: Eric Widget
-        avatar: images/review1.jpg
+        avatar: images/code-interface-symbol-of-signs.svg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
