@@ -43,11 +43,6 @@ sections:
       - title: Management
         subtitle: For very large businesses
         price: Management
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
         actions:
           - label: API Reference
             url: /signup
