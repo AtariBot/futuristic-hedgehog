@@ -10,11 +10,6 @@ sections:
       - title: Customers
         subtitle: For small businesses
         price: Customers
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
         actions:
           - label: API Reference
             url: /signup
