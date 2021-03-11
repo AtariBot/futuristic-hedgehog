@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Purchase Orders
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: Purchase Orders
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
