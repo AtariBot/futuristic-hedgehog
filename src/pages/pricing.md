@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Management
         subtitle: For very large businesses
-        price: $149/m
+        price: Management
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
