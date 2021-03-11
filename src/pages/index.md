@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/amazing-chestnut.png
     image_alt: App preview
     title: Welcome to our Dev Portal
     content: >-
