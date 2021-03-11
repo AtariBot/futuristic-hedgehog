@@ -7,7 +7,7 @@ sections:
     title: Ecommerce APIs
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
+      - title: Customers
         subtitle: For small businesses
         price: $5/m
         details: |-
