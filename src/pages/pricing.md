@@ -56,6 +56,12 @@ sections:
             new_window: false
             no_follow: false
             type: action
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
   - section_id: faq
     type: section_faq
     background: gray
