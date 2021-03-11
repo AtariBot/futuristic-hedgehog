@@ -31,10 +31,6 @@ sections:
       - title: Purchase Orders
         subtitle: For medium-sized businesses
         price: Purchase Orders
-        details: |
-          *   Curabitur non nunc mollis
-          *   Duis a purus nec ligula pellentesque dolor
-          *   Pellentesque sit amet
         highlight: true
         actions:
           - label: API Reference
