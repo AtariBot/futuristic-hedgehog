@@ -1,6 +1,6 @@
 {
     "base_font": "system-sans",
-    "palette": "cyan",
+    "palette": "blue",
     "header": {
         "logo_img": "images/VisualEditor_-_Icon_-_Code.svg.png",
         "logo_img_alt": "Logo",
