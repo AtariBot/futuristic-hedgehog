@@ -22,7 +22,17 @@
                 "style": "link"
             },
             {
-                "label": "Data Feeds",
+                "label": "Supply Chain",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "Analytics",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "Data",
                 "url": "/style-guide",
                 "style": "link"
             },
